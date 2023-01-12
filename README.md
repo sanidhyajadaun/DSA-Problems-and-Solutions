@@ -24,3 +24,4 @@
 
 1. Program to demonstrate memset()
 2. Program to demonstrate  memset() to set all values as 0 or -1 for integral data types,also demonstrated the use of vector.
+3. Program to demonstrate  memset() to set all values as boolean data types also.
