@@ -1,5 +1,12 @@
 # DSA-Problems-and-Solutions
 
+## Arrays
+
+1. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
+2. [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)
+3. [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)
+4. [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
+
 ## Linkedlist
 
 1. Implementation of linked list with the following functions :
