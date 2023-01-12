@@ -18,4 +18,9 @@
 2. Program to illustrate call-by-methods.
 3. Program to illustrate Array Name as Pointers.
 4. Program to illustrate Void Pointer.
-5. Program to swap 2 numbers without using 3rd variable
+5. Program to swap 2 numbers without using 3rd variable.
+
+## Memset()
+
+1. Program to demonstrate memset()
+2. Program to demonstrate  memset() to set all values as 0 or -1 for integral data types,also demonstrated the use of vector.
