@@ -38,6 +38,10 @@
 4. Program to illustrate Void Pointer.
 5. Program to swap 2 numbers without using 3rd variable.
 
+## Strings
+1. [Shuffle String](https://leetcode.com/problems/shuffle-string/description/)
+2. [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/description/)
+
 ## Memset()
 
 1. Program to demonstrate memset()
