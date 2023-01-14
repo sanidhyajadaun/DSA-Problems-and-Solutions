@@ -17,6 +17,7 @@
 13. [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/description/)
 14. [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)
 15. [Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/)
+16. [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/description/)
 
 ## Linkedlist
 
@@ -41,6 +42,8 @@
 ## Strings
 1. [Shuffle String](https://leetcode.com/problems/shuffle-string/description/)
 2. [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/description/)
+3. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/)
+
 
 ## Memset()
 
