@@ -47,6 +47,10 @@
 1. [Shuffle String](https://leetcode.com/problems/shuffle-string/description/)
 2. [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/description/)
 3. [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/)
+4. [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/)
+5. [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/description/)
+6. [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/)
+7. [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/)
 
 
 ## Memset()
