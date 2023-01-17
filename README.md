@@ -24,6 +24,8 @@
 20. [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)
 21. [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/)
 22. [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/description/)
+23. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)
+24. [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/description/)
 
 ## Linkedlist
 
