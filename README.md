@@ -26,6 +26,8 @@
 22. [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/description/)
 23. [Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)
 24. [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/description/)
+25. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/)
+26. [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/)
 
 ## Linkedlist
 
