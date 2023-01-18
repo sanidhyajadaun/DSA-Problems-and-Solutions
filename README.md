@@ -39,6 +39,7 @@ Linked List Problems:
 1. [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
 2. [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)
 3. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+4. [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
 
 Singly Linked List Implementation with the following functions :
 - Creation of linked list with nodes
