@@ -31,7 +31,7 @@
 
 ## Linkedlist
 
-1. Implementation of linked list with the following functions :
+Singly Linked List Implementation with the following functions :
 - Creation of linked list with nodes
 - Display the linked list
 - Insertion at the beginning
