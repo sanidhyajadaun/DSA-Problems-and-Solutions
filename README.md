@@ -28,6 +28,7 @@
 24. [Count Equal and Divisible Pairs in an Array](https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/description/)
 25. [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/)
 26. [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/)
+27. [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/)
 
 ## Linkedlist
 
