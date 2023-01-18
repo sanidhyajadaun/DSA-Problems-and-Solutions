@@ -31,7 +31,7 @@
 27. [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/)
 28. [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/description/)
 29. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/)
-
+30. [Number Of Rectangles That Can Form The Largest](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/description/)
 
 ## Linkedlist
 
