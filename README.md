@@ -74,7 +74,7 @@ Singly Linked List Implementation with the following functions :
 12. [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/)
 13. [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 14. [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/description/)
-
+15. [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/)
 
 
 ## Memset()
