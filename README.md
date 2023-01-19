@@ -72,7 +72,7 @@ Singly Linked List Implementation with the following functions :
 10. [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/)
 11. [DI String Match](https://leetcode.com/problems/di-string-match/description/)
 12. [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/)
-
+13. [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 
 
 
