@@ -73,7 +73,7 @@ Singly Linked List Implementation with the following functions :
 11. [DI String Match](https://leetcode.com/problems/di-string-match/description/)
 12. [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/)
 13. [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
-
+14. [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/description/)
 
 
 
