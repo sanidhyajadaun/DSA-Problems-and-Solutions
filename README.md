@@ -76,6 +76,7 @@ Singly Linked List Implementation with the following functions :
 14. [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/description/)
 15. [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/)
 16. [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
+17. [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/)
 
 
 ## Memset()
