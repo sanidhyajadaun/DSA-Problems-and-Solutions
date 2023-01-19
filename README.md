@@ -69,6 +69,7 @@ Singly Linked List Implementation with the following functions :
 7. [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/)
 8. [Sort the People](https://leetcode.com/problems/sort-the-people/description/)
 9. [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/)
+10. [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/)
 
 ## Memset()
 
