@@ -78,6 +78,7 @@ Singly Linked List Implementation with the following functions :
 16. [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
 17. [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/)
 18. [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/description/)
+19. [Split a String in Balanced Strings](https://github.com/sanidhyajadaun/DSA-Problems-and-Solutions)
 
 ## Memset()
 
