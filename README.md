@@ -79,6 +79,7 @@ Singly Linked List Implementation with the following functions :
 17. [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/)
 18. [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/description/)
 19. [Split a String in Balanced Strings](https://github.com/sanidhyajadaun/DSA-Problems-and-Solutions)
+20. [Decode the Message](https://leetcode.com/problems/decode-the-message/description/)
 
 ## Memset()
 
