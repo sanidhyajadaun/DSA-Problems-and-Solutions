@@ -77,7 +77,7 @@ Singly Linked List Implementation with the following functions :
 15. [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/)
 16. [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/description/)
 17. [Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/)
-
+18. [Cells in a Range on an Excel Sheet](https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/description/)
 
 ## Memset()
 
