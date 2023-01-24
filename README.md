@@ -83,7 +83,7 @@ Singly Linked List Implementation with the following functions :
 19. [Split a String in Balanced Strings](https://github.com/sanidhyajadaun/DSA-Problems-and-Solutions)
 20. [Decode the Message](https://leetcode.com/problems/decode-the-message/description/)
 21. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)
-
+22. [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/description/)
 
 ## Memset()
 
