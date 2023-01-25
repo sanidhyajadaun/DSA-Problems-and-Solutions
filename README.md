@@ -85,6 +85,7 @@ Singly Linked List Implementation with the following functions :
 21. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)
 22. [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/description/)
 23. [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/)
+24. [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/)
 
 ## Memset()
 
