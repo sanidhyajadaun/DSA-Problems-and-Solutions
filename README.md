@@ -87,6 +87,7 @@ Singly Linked List Implementation with the following functions :
 23. [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/)
 24. [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/)
 25. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
+26. [Detect Capital](https://leetcode.com/problems/detect-capital/description/)
 
 ## Memset()
 
