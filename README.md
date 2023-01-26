@@ -88,6 +88,7 @@ Singly Linked List Implementation with the following functions :
 24. [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/)
 25. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 26. [Detect Capital](https://leetcode.com/problems/detect-capital/description/)
+27. [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
 
 ## Memset()
 
