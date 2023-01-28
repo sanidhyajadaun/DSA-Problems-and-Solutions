@@ -33,6 +33,7 @@
 29. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/)
 30. [Number Of Rectangles That Can Form The Largest](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/description/)
 31. [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/)
+32. [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)
 
 ## Linkedlist
 
