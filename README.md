@@ -99,6 +99,7 @@ Singly Linked List Implementation with the following functions :
 31. [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)
 32. [Rings and Rods](https://leetcode.com/problems/rings-and-rods/description/)
 33. [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/description/)
+34. [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)
 
 ## Memset()
 
