@@ -98,6 +98,7 @@ Singly Linked List Implementation with the following functions :
 30. [To Lower Case](https://leetcode.com/problems/to-lower-case/description/)
 31. [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)
 32. [Rings and Rods](https://leetcode.com/problems/rings-and-rods/description/)
+33. [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/description/)
 
 ## Memset()
 
