@@ -100,6 +100,7 @@ Singly Linked List Implementation with the following functions :
 32. [Rings and Rods](https://leetcode.com/problems/rings-and-rods/description/)
 33. [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/description/)
 34. [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)
+35. [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/description/)
 
 ## Memset()
 
