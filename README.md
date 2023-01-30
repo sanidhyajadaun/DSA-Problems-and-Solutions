@@ -101,6 +101,7 @@ Singly Linked List Implementation with the following functions :
 33. [Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/description/)
 34. [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)
 35. [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/description/)
+36. [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
 
 ## Memset()
 
