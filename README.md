@@ -36,6 +36,7 @@
 32. [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/)
 33. [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/description/)
 34. [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/)
+35. [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)
 
 ## Linkedlist
 
