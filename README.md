@@ -40,6 +40,7 @@
 36. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 37. [Two Sum](https://leetcode.com/problems/two-sum/description/)
 38. [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/description/)
+39. [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/description/)
 
 ## Linkedlist
 
