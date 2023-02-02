@@ -38,6 +38,7 @@
 34. [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/)
 35. [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)
 36. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+37. [Two Sum](https://leetcode.com/problems/two-sum/description/)
 
 ## Linkedlist
 
