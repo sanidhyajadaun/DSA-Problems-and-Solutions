@@ -42,6 +42,7 @@
 38. [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/description/)
 39. [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/description/)
 40. [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/description/)
+41. [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/)
 
 ## Linkedlist
 
