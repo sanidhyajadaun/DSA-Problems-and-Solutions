@@ -37,6 +37,7 @@
 33. [Minimum Operations to Make the Array Increasing](https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/description/)
 34. [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/)
 35. [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)
+36. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 
 ## Linkedlist
 
