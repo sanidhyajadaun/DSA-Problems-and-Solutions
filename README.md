@@ -39,6 +39,7 @@
 35. [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/)
 36. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 37. [Two Sum](https://leetcode.com/problems/two-sum/description/)
+38. [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/description/)
 
 ## Linkedlist
 
