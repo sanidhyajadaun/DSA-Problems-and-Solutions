@@ -41,6 +41,7 @@
 37. [Two Sum](https://leetcode.com/problems/two-sum/description/)
 38. [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/description/)
 39. [Minimum Amount of Time to Collect Garbage](https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/description/)
+40. [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/description/)
 
 ## Linkedlist
 
