@@ -116,6 +116,7 @@ Singly Linked List Implementation with the following functions :
 37. [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)
 38. [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/)
 39. [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/description/)
+40. [Partition Labels](https://leetcode.com/problems/partition-labels/description/)
 
 ## Memset()
 
