@@ -115,6 +115,7 @@ Singly Linked List Implementation with the following functions :
 36. [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/)
 37. [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)
 38. [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/)
+39. [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/description/)
 
 ## Memset()
 
