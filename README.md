@@ -44,6 +44,10 @@
 40. [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/description/)
 41. [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/)
 
+## Dynamic Programming
+
+1. [Counting Bits](https://leetcode.com/problems/counting-bits/submissions/890191449/)
+
 ## Linkedlist
 
 Linked List Problems:
