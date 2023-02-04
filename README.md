@@ -76,6 +76,9 @@ Singly Linked List Implementation with the following functions :
 4. Program to illustrate Void Pointer.
 5. Program to swap 2 numbers without using 3rd variable.
 
+## Stack
+1. [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/)
+
 ## Strings
 1. [Shuffle String](https://leetcode.com/problems/shuffle-string/description/)
 2. [Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/description/)
