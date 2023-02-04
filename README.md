@@ -44,6 +44,7 @@
 40. [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/description/)
 41. [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/description/)
 42. [Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/description/)
+43. [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/description/)
 
 ## Dynamic Programming
 
