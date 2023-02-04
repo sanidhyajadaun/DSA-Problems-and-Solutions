@@ -120,6 +120,7 @@ Singly Linked List Implementation with the following functions :
 38. [Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/)
 39. [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/description/)
 40. [Partition Labels](https://leetcode.com/problems/partition-labels/description/)
+42. [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/)
 
 ## Memset()
 
