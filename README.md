@@ -49,6 +49,7 @@
 45. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/)
 46. [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
 47. [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/description/)
+48. [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/description/)
 
 ## Dynamic Programming
 
