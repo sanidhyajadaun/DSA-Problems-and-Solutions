@@ -48,6 +48,7 @@
 44. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/description/)
 45. [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/)
 46. [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
+47. [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/description/)
 
 ## Dynamic Programming
 
