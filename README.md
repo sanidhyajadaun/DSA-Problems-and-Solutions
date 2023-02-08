@@ -51,6 +51,7 @@
 47. [Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/description/)
 48. [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/description/)
 49. [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/)
+50. [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/)
 
 ## Dynamic Programming
 
