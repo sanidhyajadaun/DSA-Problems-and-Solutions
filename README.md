@@ -134,6 +134,7 @@ Singly Linked List Implementation with the following functions :
 43. [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/description/)
 44. [Destination City](https://leetcode.com/problems/destination-city/description/)
 45. [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/description/)
+46. [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/description/)
 
 ## Memset()
 
