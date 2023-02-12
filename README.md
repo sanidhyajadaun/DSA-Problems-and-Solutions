@@ -133,6 +133,7 @@ Singly Linked List Implementation with the following functions :
 42. [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/)
 43. [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/description/)
 44. [Destination City](https://leetcode.com/problems/destination-city/description/)
+45. [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/description/)
 
 ## Memset()
 
