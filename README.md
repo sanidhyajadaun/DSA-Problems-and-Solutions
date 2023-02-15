@@ -136,6 +136,7 @@ Singly Linked List Implementation with the following functions :
 45. [Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/description/)
 46. [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/description/)
 47. [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)47. [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)
+48. [Reverse String](https://leetcode.com/problems/reverse-string/description/)
 
 ## Memset()
 
