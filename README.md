@@ -138,6 +138,7 @@ Singly Linked List Implementation with the following functions :
 47. [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)
 48. [Reverse String](https://leetcode.com/problems/reverse-string/description/)
 49. [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/)
+50. [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)
 
 ## Memset()
 
