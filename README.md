@@ -137,6 +137,7 @@ Singly Linked List Implementation with the following functions :
 46. [Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/description/)
 47. [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/)
 48. [Reverse String](https://leetcode.com/problems/reverse-string/description/)
+49. [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/)
 
 ## Memset()
 
