@@ -139,6 +139,7 @@ Singly Linked List Implementation with the following functions :
 48. [Reverse String](https://leetcode.com/problems/reverse-string/description/)
 49. [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/)
 50. [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)
+51. [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/description/)
 
 ## Memset()
 
