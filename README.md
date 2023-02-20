@@ -52,6 +52,7 @@
 48. [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/description/)
 49. [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/)
 50. [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/)
+51. [Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/submissions/888661765/)
 
 ## Dynamic Programming
 
