@@ -144,6 +144,7 @@ Singly Linked List Implementation with the following functions :
 50. [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/description/)
 51. [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/description/)
 52. [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/submissions/890187962/)
+53. [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/)
 
 ## Memset()
 
