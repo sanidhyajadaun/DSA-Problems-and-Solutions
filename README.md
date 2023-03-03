@@ -58,6 +58,8 @@
 54. [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/)
 55. [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/description/)
 56. [Watering Plants](https://leetcode.com/problems/watering-plants/description/)
+57. [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)
+58. [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/)
 
 ## Dynamic Programming
 
