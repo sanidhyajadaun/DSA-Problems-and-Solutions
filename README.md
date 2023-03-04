@@ -62,6 +62,7 @@
 58. [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/)
 59. [Height Checker](https://leetcode.com/problems/height-checker/description/)
 60. [Baseball Game](https://leetcode.com/problems/baseball-game/submissions/899546540/)
+61. [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 
 ## Dynamic Programming
 
