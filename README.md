@@ -60,6 +60,8 @@
 56. [Watering Plants](https://leetcode.com/problems/watering-plants/description/)
 57. [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/)
 58. [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/)
+59. [Height Checker](https://leetcode.com/problems/height-checker/description/)
+60. [Baseball Game](https://leetcode.com/problems/baseball-game/submissions/899546540/)
 
 ## Dynamic Programming
 
