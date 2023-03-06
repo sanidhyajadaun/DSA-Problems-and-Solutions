@@ -102,6 +102,10 @@ Singly Linked List Implementation with the following functions :
 4. Program to illustrate Void Pointer.
 5. Program to swap 2 numbers without using 3rd variable.
 
+## Queue
+
+1. [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/)
+
 ## Stack
 1. [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/)
 
