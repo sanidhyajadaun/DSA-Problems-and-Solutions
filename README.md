@@ -67,6 +67,7 @@
 ## Dynamic Programming
 
 1. [Counting Bits](https://leetcode.com/problems/counting-bits/submissions/890191449/)
+2. [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/description/)
 
 ## Linkedlist
 
