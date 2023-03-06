@@ -69,6 +69,11 @@
 1. [Counting Bits](https://leetcode.com/problems/counting-bits/submissions/890191449/)
 2. [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/description/)
 
+## Hashmap()
+
+1.  [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/)
+
+
 ## Linkedlist
 
 Linked List Problems:
