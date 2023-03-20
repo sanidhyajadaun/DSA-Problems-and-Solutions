@@ -63,6 +63,7 @@
 59. [Height Checker](https://leetcode.com/problems/height-checker/description/)
 60. [Baseball Game](https://leetcode.com/problems/baseball-game/submissions/899546540/)
 61. [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
+62. [Sort an Array](https://leetcode.com/problems/sort-an-array/)
 
 ## Dynamic Programming
 
