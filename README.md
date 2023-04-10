@@ -166,7 +166,7 @@ Singly Linked List Implementation with the following functions :
 ## unordered_map()
 
 1.  [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/)
-
+2. [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/description/)
 
 ## Memset()
 
