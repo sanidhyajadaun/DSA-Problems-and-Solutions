@@ -165,6 +165,7 @@ Singly Linked List Implementation with the following functions :
 54. [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)
 55. [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/)
 56. [ String Compression](https://leetcode.com/problems/string-compression/)
+57. [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
 
 ## unordered_map()
 
