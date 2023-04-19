@@ -166,6 +166,9 @@ Singly Linked List Implementation with the following functions :
 55. [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/description/)
 56. [ String Compression](https://leetcode.com/problems/string-compression/)
 57. [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+58. [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/description/)
+59. [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/)
+60. [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/description/)
 
 ## unordered_map()
 
