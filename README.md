@@ -169,6 +169,8 @@ Singly Linked List Implementation with the following functions :
 58. [Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/description/)
 59. [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/)
 60. [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/description/)
+61. [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/description/)
+62. [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/description/)
 
 ## unordered_map()
 
