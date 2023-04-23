@@ -65,6 +65,7 @@
 61. [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 62. [Sort an Array](https://leetcode.com/problems/sort-an-array/)
 63. [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/)
+64. [ Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)
 
 ## Dynamic Programming
 
