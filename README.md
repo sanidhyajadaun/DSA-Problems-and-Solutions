@@ -83,16 +83,11 @@ Linked List Problems:
 4. [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
 5. [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/)
 6. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+7. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
 
-Singly Linked List Implementation with the following functions :
-- Creation of linked list with nodes
-- Display the linked list
-- Insertion at the beginning
-- Insertion at the end
-- Insertion at any random position
-- Deletion at the beginning
-- Deletion at the end
-- Deletion at any random position
+- Singly Linked List
+- Doubly Linked List
+- Circular Linked List
 
 ## Pointers
 
