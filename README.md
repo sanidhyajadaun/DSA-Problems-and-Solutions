@@ -168,6 +168,7 @@ Linked List Problems:
 60. [Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/description/)
 61. [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/description/)
 62. [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/description/)
+63. [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/)
 
 ## unordered_map()
 
