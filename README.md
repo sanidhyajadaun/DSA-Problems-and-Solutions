@@ -101,6 +101,11 @@ Linked List Problems:
 
 1. [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/)
 
+## Sorting
+1. Bubble Sort
+2. Insertion Sort
+3. Selection Sort
+
 ## Stack
 1. [Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/)
 2. [Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/description/)
