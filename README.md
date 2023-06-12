@@ -67,6 +67,8 @@
 63. [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/)
 64. [ Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/description/)
 65. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
+66. [Sum Multiples](https://leetcode.com/problems/sum-multiples/description/)
+67. [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)
 
 ## Dynamic Programming
 
