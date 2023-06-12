@@ -70,6 +70,7 @@
 66. [Sum Multiples](https://leetcode.com/problems/sum-multiples/description/)
 67. [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/)
 68. [Remove Element](https://leetcode.com/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150)
+69. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
 
 ## Dynamic Programming
 
