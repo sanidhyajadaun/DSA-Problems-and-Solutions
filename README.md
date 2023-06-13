@@ -89,6 +89,7 @@ Linked List Problems:
 5. [Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/description/)
 6. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 7. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
+8. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/?envType=study-plan-v2&envId=top-interview-150)
 
 - Singly Linked List
 - Doubly Linked List
