@@ -180,6 +180,7 @@ Linked List Problems:
 61. [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/description/)
 62. [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/description/)
 63. [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/)
+64. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/?envType=study-plan-v2&envId=top-interview-150)
 
 ## unordered_map()
 
