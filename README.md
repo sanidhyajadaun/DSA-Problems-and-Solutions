@@ -73,6 +73,9 @@
 69. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
 70. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
 
+## Bit Manipulation
+1. [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=study-plan-v2&envId=top-interview-150)
+
 ## Dynamic Programming
 
 1. [Counting Bits](https://leetcode.com/problems/counting-bits/submissions/890191449/)
