@@ -98,6 +98,11 @@ Linked List Problems:
 - Doubly Linked List
 - Circular Linked List
 
+## Matrix
+
+1. [Rotate Image](https://leetcode.com/problems/rotate-image/description/?envType=study-plan-v2&envId=top-interview-150)
+2. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
+
 ## Pointers
 
 1. Program to illustrate Pointers.
