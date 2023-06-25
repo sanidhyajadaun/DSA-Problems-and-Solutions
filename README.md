@@ -81,6 +81,8 @@
 1. [Counting Bits](https://leetcode.com/problems/counting-bits/submissions/890191449/)
 2. [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/description/)
 
+## Greedy Problems
+1. [Activity Selection Problem](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
 
 ## Linkedlist
 
