@@ -79,6 +79,10 @@
 75. [Jump Game](https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150)
 76. [Jump Game II](https://leetcode.com/problems/jump-game-ii/description/?envType=study-plan-v2&envId=top-interview-150)
 77. [H-Index](https://leetcode.com/problems/h-index/description/?envType=study-plan-v2&envId=top-interview-150)
+78. [Plus One](https://leetcode.com/problems/plus-one/description/?envType=study-plan-v2&envId=top-interview-150)
+79. [Reverse The Array](https://www.codingninjas.com/studio/problems/reverse-the-array_1262298?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0)
+80. [Sum Of Max And Min](https://www.codingninjas.com/studio/problems/sum-of-max-and-min_1081476?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0)
+81. [Find the "Kth" max and min element of an array](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)
 
 ## Bit Manipulation
 1. [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=study-plan-v2&envId=top-interview-150)
