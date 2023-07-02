@@ -83,6 +83,7 @@
 79. [Reverse The Array](https://www.codingninjas.com/studio/problems/reverse-the-array_1262298?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0)
 80. [Sum Of Max And Min](https://www.codingninjas.com/studio/problems/sum-of-max-and-min_1081476?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0)
 81. [Find the "Kth" max and min element of an array](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)
+82. [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/description/)
 
 ## Bit Manipulation
 1. [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=study-plan-v2&envId=top-interview-150)
@@ -106,6 +107,7 @@ Linked List Problems:
 6. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 7. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
 8. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/?envType=study-plan-v2&envId=top-interview-150)
+9. [Write a program to Delete loop in a linked list](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
 
 - Singly Linked List
 - Doubly Linked List
