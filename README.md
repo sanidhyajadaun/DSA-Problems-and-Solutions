@@ -1,5 +1,21 @@
 # DSA-Problems-and-Solutions
 
+## Table of Contents
+- [Arrays](#arrays)
+- [Binary Tree](#binarytree)
+- [Dynamic Programming](#dynamicprogramming)
+- [Greedy Problems](#greedyproblems)
+- [Linkedlist](#linkedlist)
+- [Matrix](#matrix)
+- [Pointers](#pointers)
+- [Queue](#queue)
+- [Searching and Sorting](#searchandsort)
+- [Sorting Concepts](#sorting)
+- [Stack](#stack)
+- [Strings](#strings)
+- [Unordered Map](#unorderedmap)
+- [Memset Function](#memset)
+
 ## Arrays
 
 1. [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
@@ -142,7 +158,10 @@ Linked List Problems:
 
 1. [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/)
 
-## Sorting
+## Searching and Sorting
+1. [Find first and last positions of an element in a sorted array](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1)
+
+## Sorting Concepts
 1. Bubble Sort
 2. Insertion Sort
 3. Selection Sort
@@ -218,7 +237,7 @@ Linked List Problems:
 63. [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/)
 64. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/?envType=study-plan-v2&envId=top-interview-150)
 
-## unordered_map()
+## Unordered Map
 
 1.  [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/)
 2. [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/description/)
@@ -227,7 +246,7 @@ Linked List Problems:
 5. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/?envType=study-plan-v2&envId=top-interview-150)
 6. [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/?envType=study-plan-v2&envId=top-interview-150)
 
-## Memset()
+## Memset Function
 
 1. Program to demonstrate memset()
 2. Program to demonstrate  memset() to set all values as 0 or -1 for integral data types,also demonstrated the use of vector.
