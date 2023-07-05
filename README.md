@@ -2,19 +2,19 @@
 
 ## Table of Contents
 - [Arrays](#arrays)
-- [Binary Tree](#binarytree)
-- [Dynamic Programming](#dynamicprogramming)
-- [Greedy Problems](#greedyproblems)
+- [BinaryTree](#binarytree)
+- [DynamicProgramming](#dynamicprogramming)
+- [GreedyProblems](#greedyproblems)
 - [Linkedlist](#linkedlist)
 - [Matrix](#matrix)
 - [Pointers](#pointers)
 - [Queue](#queue)
-- [Searching and Sorting](#searchandsort)
-- [Sorting Concepts](#sorting)
+- [SearchingandSortingProblems](#searchandsort)
+- [SortingConcepts](#sorting)
 - [Stack](#stack)
 - [Strings](#strings)
-- [Unordered Map](#unorderedmap)
-- [Memset Function](#memset)
+- [UnorderedMap](#unorderedmap)
+- [MemsetFunction](#memset)
 
 ## Arrays
 
@@ -102,7 +102,7 @@
 82. [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/description/)
 
 
-## Binary Tree
+## BinaryTree
 ### Operations
 - Binary Tree Creation
 - Binary Tree Traversal (Inorder,Preorder,Postorder)
@@ -116,12 +116,12 @@
 ## Bit Manipulation
 1. [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=study-plan-v2&envId=top-interview-150)
 
-## Dynamic Programming
+## DynamicProgramming
 
 1. [Counting Bits](https://leetcode.com/problems/counting-bits/submissions/890191449/)
 2. [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/description/)
 
-## Greedy Problems
+## GreedyProblems
 1. [Activity Selection Problem](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
 
 ## Linkedlist
@@ -158,10 +158,10 @@ Linked List Problems:
 
 1. [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/)
 
-## Searching and Sorting
+## SearchingandSortingProblems
 1. [Find first and last positions of an element in a sorted array](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1)
 
-## Sorting Concepts
+## SortingConcepts
 1. Bubble Sort
 2. Insertion Sort
 3. Selection Sort
@@ -237,7 +237,7 @@ Linked List Problems:
 63. [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/)
 64. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/?envType=study-plan-v2&envId=top-interview-150)
 
-## Unordered Map
+## UnorderedMap
 
 1.  [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/)
 2. [Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/description/)
@@ -246,7 +246,7 @@ Linked List Problems:
 5. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/?envType=study-plan-v2&envId=top-interview-150)
 6. [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/?envType=study-plan-v2&envId=top-interview-150)
 
-## Memset Function
+## MemsetFunction
 
 1. Program to demonstrate memset()
 2. Program to demonstrate  memset() to set all values as 0 or -1 for integral data types,also demonstrated the use of vector.
