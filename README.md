@@ -100,7 +100,7 @@
 80. [Sum Of Max And Min](https://www.codingninjas.com/studio/problems/sum-of-max-and-min_1081476?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0)
 81. [Find the "Kth" max and min element of an array](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)
 82. [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/description/)
-
+83. [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
 
 ## BinaryTree
 ### Operations
@@ -115,6 +115,8 @@
 
 ## Bit Manipulation
 1. [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=study-plan-v2&envId=top-interview-150)
+2. [Single Number](https://leetcode.com/problems/single-number/description/)
+3. [ Single Number II](https://leetcode.com/problems/single-number-ii/description/)
 
 ## DynamicProgramming
 
