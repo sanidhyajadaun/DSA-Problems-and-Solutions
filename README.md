@@ -127,6 +127,10 @@
 1. [Activity Selection Problem](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
 
 ## Linkedlist
+Operations :
+- Singly Linked List
+- Doubly Linked List
+- Circular Linked List
 
 Linked List Problems:
 1. [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/)
@@ -138,10 +142,7 @@ Linked List Problems:
 7. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
 8. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/?envType=study-plan-v2&envId=top-interview-150)
 9. [Write a program to Delete loop in a linked list](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
-
-- Singly Linked List
-- Doubly Linked List
-- Circular Linked List
+10. [Find the starting point of the loop](https://practice.geeksforgeeks.org/problems/44bb5287b98797782162ffe3d2201621f6343a4b/1)
 
 ## Matrix
 
