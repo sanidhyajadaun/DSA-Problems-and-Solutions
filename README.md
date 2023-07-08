@@ -239,6 +239,10 @@ Linked List Problems:
 62. [Reformat Phone Number](https://leetcode.com/problems/reformat-phone-number/description/)
 63. [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/)
 64. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/?envType=study-plan-v2&envId=top-interview-150)
+65. [ Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150)
+66. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150)
+67. [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/?envType=study-plan-v2&envId=top-interview-150)
+68. [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=top-interview-150)
 
 ## UnorderedMap
 
