@@ -115,6 +115,9 @@
 2. [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/description/)
 3. [Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/description/)
 4. [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/)
+5. [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/description/)
+6. [Top View Of Binary Tree](https://www.codingninjas.com/studio/problems/top-view-of-the-tree_799401)
+7. [Bottom View Of Binary Tree](https://www.codingninjas.com/studio/problems/bottom-view-of-binary-tree_893110)
 
 ## Bit Manipulation
 1. [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=study-plan-v2&envId=top-interview-150)
