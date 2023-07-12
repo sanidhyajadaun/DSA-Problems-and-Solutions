@@ -118,6 +118,8 @@
 5. [Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/description/)
 6. [Top View Of Binary Tree](https://www.codingninjas.com/studio/problems/top-view-of-the-tree_799401)
 7. [Bottom View Of Binary Tree](https://www.codingninjas.com/studio/problems/bottom-view-of-binary-tree_893110)
+8. [Reverse Level Order traversal](https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1)
+9. [Height of a tree](https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1)
 
 ## Bit Manipulation
 1. [Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=study-plan-v2&envId=top-interview-150)
