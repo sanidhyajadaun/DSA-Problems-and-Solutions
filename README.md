@@ -101,6 +101,8 @@
 81. [Find the "Kth" max and min element of an array](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)
 82. [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/description/)
 83. [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
+84. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
+85. [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/)
 
 ## BinaryTree
 ### Operations
