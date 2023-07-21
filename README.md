@@ -134,6 +134,7 @@
 
 1. [Counting Bits](https://leetcode.com/problems/counting-bits/submissions/890191449/)
 2. [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/description/)
+3. [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
 
 ## GreedyProblems
 1. [Activity Selection Problem](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
