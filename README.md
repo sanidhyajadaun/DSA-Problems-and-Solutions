@@ -256,6 +256,8 @@ Linked List Problems:
 66. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150)
 67. [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/?envType=study-plan-v2&envId=top-interview-150)
 68. [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=top-interview-150)
+69. [Reverse a String](https://practice.geeksforgeeks.org/problems/reverse-a-string/1)
+
 
 ## UnorderedMap
 
