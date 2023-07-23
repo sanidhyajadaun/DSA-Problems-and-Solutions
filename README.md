@@ -258,6 +258,8 @@ Linked List Problems:
 68. [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=top-interview-150)
 69. [Reverse a String](https://practice.geeksforgeeks.org/problems/reverse-a-string/1)
 70. [Check whether a String is Palindrome or not](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)
+71. [Count and Say](https://leetcode.com/problems/count-and-say/description/)
+72. [Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/description/)
 
 ## UnorderedMap
 
