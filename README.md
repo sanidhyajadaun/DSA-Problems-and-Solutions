@@ -103,6 +103,7 @@
 83. [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/)
 84. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 85. [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/)
+86. [Combinations](https://leetcode.com/problems/combinations/description/)
 
 ## BinaryTree
 ### Operations
