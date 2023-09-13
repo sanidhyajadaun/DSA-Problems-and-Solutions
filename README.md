@@ -4,6 +4,7 @@
 - [Arrays](#arrays)
 - [BinaryTree](#binarytree)
 - [DynamicProgramming](#dynamicprogramming)
+- [Graphs](#graphs)
 - [GreedyProblems](#greedyproblems)
 - [Linkedlist](#linkedlist)
 - [Matrix](#matrix)
@@ -136,6 +137,12 @@
 1. [Counting Bits](https://leetcode.com/problems/counting-bits/submissions/890191449/)
 2. [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/description/)
 3. [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+
+## Graphs
+### - Basic Programs
+1. Graph Creation using Adjacency Matrix.
+2. Graph Creation using Adjacency list.
+3. Graph BFS Traversal.
 
 ## GreedyProblems
 1. [Activity Selection Problem](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)
