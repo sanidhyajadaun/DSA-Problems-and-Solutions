@@ -105,6 +105,10 @@
 84. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)
 85. [Put Marbles in Bags](https://leetcode.com/problems/put-marbles-in-bags/)
 86. [Combinations](https://leetcode.com/problems/combinations/description/)
+87. [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75)
+88. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/?envType=study-plan-v2&envId=leetcode-75)
+89. [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75)
+90. [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
 
 ## BinaryTree
 ### Operations
