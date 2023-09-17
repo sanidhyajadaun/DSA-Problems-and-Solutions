@@ -276,6 +276,9 @@ Linked List Problems:
 70. [Check whether a String is Palindrome or not](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)
 71. [Count and Say](https://leetcode.com/problems/count-and-say/description/)
 72. [Substring With Largest Variance](https://leetcode.com/problems/substring-with-largest-variance/description/)
+73. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
+74. [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
+75. [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
 
 ## UnorderedMap
 
