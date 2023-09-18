@@ -172,6 +172,9 @@ Linked List Problems:
 8. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/?envType=study-plan-v2&envId=top-interview-150)
 9. [Write a program to Delete loop in a linked list](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1)
 10. [Find the starting point of the loop](https://practice.geeksforgeeks.org/problems/44bb5287b98797782162ffe3d2201621f6343a4b/1)
+10. [Find the starting point of the loop](https://practice.geeksforgeeks.org/problems/44bb5287b98797782162ffe3d2201621f6343a4b/1)
+11. [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/?envType=study-plan-v2&envId=leetcode-75)
+12. [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/?envType=study-plan-v2&envId=leetcode-75)
 
 ## Matrix
 
