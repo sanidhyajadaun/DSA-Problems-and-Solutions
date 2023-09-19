@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [Arrays](#arrays)
+- [BinarySearchTrees](#binarysearchtrees)
 - [BinaryTree](#binarytree)
 - [DynamicProgramming](#dynamicprogramming)
 - [Graphs](#graphs)
@@ -109,6 +110,14 @@
 88. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/?envType=study-plan-v2&envId=leetcode-75)
 89. [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75)
 90. [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)
+
+## BinarySearchTrees
+
+### Problems
+1. [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)
+2. [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+3. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)
+4. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 
 ## BinaryTree
 ### Operations
