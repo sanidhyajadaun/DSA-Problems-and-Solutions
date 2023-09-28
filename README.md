@@ -11,6 +11,7 @@
 - [Matrix](#matrix)
 - [Pointers](#pointers)
 - [Queue](#queue)
+- [Recursion](#recursion)
 - [SearchingandSortingProblems](#searchandsort)
 - [SortingConcepts](#sorting)
 - [Stack](#stack)
@@ -201,6 +202,16 @@ Linked List Problems:
 ## Queue
 
 1. [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/description/)
+
+## Recursion
+
+### Basic Problems
+1. Printing 1-N using recursion.
+2. Printing N to 1 using recursion.
+3. Calculating sum using recursion.
+4. Factorial using recursion.
+5. Reversing array elements using recursion.
+6. Checking Palindrome using recursion.
 
 ## SearchingandSortingProblems
 1. [Find first and last positions of an element in a sorted array](https://practice.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1)
